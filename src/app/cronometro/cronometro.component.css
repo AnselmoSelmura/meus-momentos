@@ -2,6 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}.souEu span{
+    font-size: 1.1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}.souEu .variavel{
+    color: #520420;
+}.souEu .array{
+    color: #045250;
+}.souEu .hash{
+    color: #042052;
 }
 body{
     width: 100%;
@@ -10,7 +20,7 @@ body{
     place-items: center;
     background-color: rgba(60, 60, 60, 1);
 }.crono-container{
-    display: block;
-    align-items: center;
+    color: brown;
+    background-color: aqua;
 
 }
