@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';import { HomeComponent } from './
 import { CronometroComponent } from './cronometro/cronometro.component';
 import { ParentDataComponent } from './parent-data/parent-data.component';
 import { DiretivasComponent } from './diretivas/diretivas.component';
+import { IfRenderComponent } from './if-render/if-render.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -13,6 +14,7 @@ import { DiretivasComponent } from './diretivas/diretivas.component';
     CronometroComponent,
     ParentDataComponent,
     DiretivasComponent,
+    IfRenderComponent,
 
   ],
   imports: [
